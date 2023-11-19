@@ -1,0 +1,2 @@
+# NA-Retail-Sales-Visualization
+In the FP20 Analytics Challenge, the dataset provided is North America retail sales. In which I have explored delivery times across product categories, analyzed durations for customer segments, identified the top 5 products with varied delivery speeds, pinpointed the salesperson with the lowest return rate, and investigated ship mode correlations with return rates. Highlighted ship modes with extreme return rates.
